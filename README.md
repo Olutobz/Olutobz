@@ -15,6 +15,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-❓ Ask me about Android Dev & Kotlin
+❓ Ask me about Android Dev, Java, Kotlin & Golang
 
 😄 Pronouns: he/him
