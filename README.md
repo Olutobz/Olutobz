@@ -19,4 +19,4 @@ Here are some ideas to get you started:
 
 😄 Pronouns: he/him
 
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/damola-olutoba-onikoyi-55976517a/) [Twitter](https://twitter.com/IkoyiOlutoba)
+📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/damola-olutoba-onikoyi-55976517a/) & [Twitter](https://twitter.com/IkoyiOlutoba)
