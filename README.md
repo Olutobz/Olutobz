@@ -18,3 +18,5 @@ Here are some ideas to get you started:
 ❓ Ask me about Android Dev, Java, Kotlin & Golang
 
 😄 Pronouns: he/him
+
+📫 How to reach me:[LinkedIn](https://www.linkedin.com/in/damola-olutoba-onikoyi-55976517a/)
