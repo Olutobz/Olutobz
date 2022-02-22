@@ -1,3 +1,7 @@
+
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Olutobz&label=Profile%20views&color=0e75b6&style=flat"
+                     alt="Olutobz"/></p>
+                     
 ### Hi there 👋
 
 <!--
@@ -17,10 +21,6 @@ Here are some ideas to get you started:
 
 ❓ Ask me about Android Dev, Java, Kotlin & Golang
 
-😄 Pronouns: he/him
-
-<p align="left"><img src="https://komarev.com/ghpvc/?username=Olutobz&label=Profile%20views&color=0e75b6&style=flat"
-                     alt="Olutobz"/></p>
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
     <!--Kotlin-->
