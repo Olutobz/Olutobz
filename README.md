@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-❓ Ask me about Android Dev, Java, Kotlin & Golang
+❓ Ask me about Android Dev, Java, Kotlin & DSA
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
