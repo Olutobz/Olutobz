@@ -1,6 +1,11 @@
 
 <p align="left"><img src="https://komarev.com/ghpvc/?username=Olutobz&label=Profile%20views&color=0e75b6&style=flat"
                      alt="Olutobz"/></p>
+<p>
+
+[![wakatime](https://wakatime.com/badge/user/864b0f28-5065-42db-84e7-6235ed716641.svg)](https://wakatime.com/@864b0f28-5065-42db-84e7-6235ed716641)
+
+</p>
                      
 ### Hi there 👋
 
