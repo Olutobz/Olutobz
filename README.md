@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-❓ Ask me about Android Dev, Java & Kotlin
+❓ Ask me about Android, Java & Kotlin
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
