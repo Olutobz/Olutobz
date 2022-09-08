@@ -19,6 +19,8 @@ Here are some ideas to get you started:
  
 🌱 I’m currently learning more about Android Development, Data Structures and Algorithms.
 
+🔭 Taking my problem solving skills to the next level 🚀🚀🚀
+
 💬 Ask me about Android, Java & Kotlin
 
 <h3 align="left">Languages and Tools:</h3>
