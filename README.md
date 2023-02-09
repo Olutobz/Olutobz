@@ -17,11 +17,9 @@ Here are some ideas to get you started:
 
  🎓 I'm currently studying Computer Engineering at Obafemi Awolowo University, Ile-Ife.
  
-🌱 I’m currently learning more about Android Development, Data Structures and Algorithms.
+🌱 I’m currently learning more about Android Development, Backend Development, Data Structures and Algorithms.
 
 🔭 Taking my problem solving skills to the next level 🚀🚀🚀
-
-💬 Ask me about Android, Java & Kotlin
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
