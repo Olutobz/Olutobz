@@ -15,11 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
- 🎓 I'm currently studying Computer Engineering at Obafemi Awolowo University, Ile-Ife.
- 
-🌱 I’m currently learning more about Android Development, Data Structures and Algorithms.
-
-🔭 Taking my problem solving skills to the next level 🚀🚀🚀
+ 🔭 Break and fix things.
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
