@@ -32,5 +32,3 @@ Here are some ideas to get you started:
             src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java"
             width="40" height="40"/> </a>
 </p>
-
-📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/damola-olutoba-onikoyi-55976517a/) & [Twitter](https://twitter.com/IkoyiOlutoba)
